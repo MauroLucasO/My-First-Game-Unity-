@@ -1,0 +1,1 @@
+# Jogo baseado e retirado os sprite de Pixel Adventure 1
